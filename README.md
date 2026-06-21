@@ -18,16 +18,15 @@
 
 I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, India, focused on building intelligent applications at the intersection of **Machine Learning** and **Web Development**.
 
-- 🔭 I'm currently working on **ML-powered web applications & deep learning models**
-- 🌱 I'm constantly learning **new AI/ML frameworks and cloud deployment strategies**
-- 🤝 I'm open to **collaborating on open-source ML & data science projects**
-- ⚡ Fun fact: I once built a **Pneumonia Detector** that hits ~96.7% accuracy using CT scans!
+-  I'm currently working on **ML-powered web applications & deep learning models**
+-  I'm constantly learning **new AI/ML frameworks and cloud deployment strategies**
+-  I'm open to **collaborating on open-source ML & data science projects**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -35,7 +34,7 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Languages
+###  Backend & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -59,7 +58,7 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
   <img src="https://img.shields.io/badge/Shapely-228B22?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -119,7 +118,6 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to build it." — Alan Kay</i><br/><br/>
   💼 Open to exciting opportunities in <b>ML Engineering</b> &amp; <b>Software Development</b><br/>
   📬 Reach me at <a href="mailto:kurukarthik0824@gmail.com">kurukarthik0824@gmail.com</a>
 </p>
