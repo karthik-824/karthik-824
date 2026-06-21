@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, India 🇮🇳, focused on building intelligent applications at the intersection of **Machine Learning** and **Web Development**.
+I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, India, focused on building intelligent applications at the intersection of **Machine Learning** and **Web Development**.
 
 - 🔭 I'm currently working on **ML-powered web applications & deep learning models**
 - 🌱 I'm constantly learning **new AI/ML frameworks and cloud deployment strategies**
