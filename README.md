@@ -99,10 +99,13 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik-824&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://img.shields.io/badge/🤖_ML_Projects-3_Completed-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Model_Accuracy-96.7%25_Best-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Deployments-Hugging_Face_&_Streamlit-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐳_Docker-Production_Ready-2496ED?style=for-the-badge" />
 </p>
 
 ---
