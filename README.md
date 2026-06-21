@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Karthik+Kuru+👋;Software+Engineer+%7C+ML+Enthusiast;Building+AI-powered+Web+Solutions;Python+%7C+TensorFlow+%7C+Deep+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Karthik%20Kuru%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20AI-Powered%20Web%20Solutions&descAlignY=55&descAlign=50" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML+Enthusiast;Building+AI-powered+Web+Solutions;Python+%7C+TensorFlow+%7C+Deep+Learning;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -96,13 +102,13 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik-824&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik-824&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
 
 <p align="center">
   <i>"The best way to predict the future is to build it." — Alan Kay</i><br/><br/>
-  💼 Open to exciting opportunities in <b>ML Engineering</b> & <b>Software Development</b><br/>
+  💼 Open to exciting opportunities in <b>ML Engineering</b> &amp; <b>Software Development</b><br/>
   📬 Reach me at <a href="mailto:kurukarthik0824@gmail.com">kurukarthik0824@gmail.com</a>
 </p>
