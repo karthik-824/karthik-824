@@ -102,7 +102,15 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik-824&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik-824&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-824&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -111,4 +119,8 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
   <i>"The best way to predict the future is to build it." — Alan Kay</i><br/><br/>
   💼 Open to exciting opportunities in <b>ML Engineering</b> &amp; <b>Software Development</b><br/>
   📬 Reach me at <a href="mailto:kurukarthik0824@gmail.com">kurukarthik0824@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
