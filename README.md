@@ -12,10 +12,10 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, India, focused on building intelligent applications at the intersection of **Machine Learning** and **Web Development**.
+I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, India, focused on building intelligent applications at the intersection of **Machine Learning** and **Web Development**, with a strong base in **Python, Java, C, MATLAB, OOPs and DSA**.
 
 -  I'm currently working on **ML-powered web applications & deep learning models**
--  I'm constantly learning **new AI/ML frameworks and cloud deployment strategies**
+-  I'm constantly learning **new AI/ML frameworks, MATLAB and cloud deployment strategies**
 -  I'm open to **collaborating on open-source ML & data science projects**
 
 ---
@@ -34,7 +34,10 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
 </p>
@@ -62,6 +65,13 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 🎓 Certifications
+
+- **Oracle Certified AI Foundations Associate**
+- **Microsoft Certified Azure Data Scientist**
 
 ---
 
@@ -105,16 +115,8 @@ I'm **Karthik Kuru**, a passionate **Software Engineer** based in Hyderabad, Ind
 
 ---
 
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-824&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  💼 Open to exciting opportunities in <b>ML Engineering</b> &amp; <b>Software Development</b><br/>
+  💼 Open to exciting opportunities in <b>AI/ML Engineering</b> &amp; <b>Software Development</b><br/>
   📬 Reach me at <a href="mailto:kurukarthik0824@gmail.com">kurukarthik0824@gmail.com</a>
 </p>
 
